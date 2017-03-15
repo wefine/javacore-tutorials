@@ -11,6 +11,7 @@
 
     <modules>
         <module>lambdas-exercises</module>
+        <module>java8-date</module>
     </modules>
 
     <dependencies>
